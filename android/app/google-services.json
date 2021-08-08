@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794947867726",
+    "project_id": "qubi7-d401d",
+    "storage_bucket": "qubi7-d401d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794947867726:android:a40e45c9ad9843ed779f1f",
+        "android_client_info": {
+          "package_name": "com.example.qubi7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794947867726-ocvekp4mn5221a80ep5fkpjcl5qj9uij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUG0VxId6EEKJMZks0JYpOCQfxyiSPK5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794947867726-ocvekp4mn5221a80ep5fkpjcl5qj9uij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
